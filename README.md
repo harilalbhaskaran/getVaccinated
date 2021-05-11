@@ -1,0 +1,2 @@
+# getVaccinated
+getVaccinated - Telegram Bot
